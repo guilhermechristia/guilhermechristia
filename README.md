@@ -1,6 +1,11 @@
-## Hi there 👋
+## **seja bem vindo** 🐡
 
-<!--
+### Sou aluno da _Alura_ e aqui voce verá meus projetos
+
+### Meu  e-mail 📧
+- 00001114326136sp@aluno.educacao.sp.gov.br
+
+  ![](https://media.tenor.com/X1UBzspDL3kAAAAM/burn-in-hell-elmo.gif)
 **guilhermechristia/guilhermechristia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
